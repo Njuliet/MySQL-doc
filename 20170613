@@ -1,0 +1,14 @@
+1. 从仓库中删除文件 git rm filename
+2. 将删除提交到仓库 git commit
+3. 从版本库中忽略文件 touch .gitignore
+4. 版本之前对比 git diff commitID1 commitID2
+5. git生成patch git format-patch -p1
+6. git 打patch git am patch-name
+7. 创建分支 git branch branch-name
+8. 切换到新创建的分支上 git checkout -b branch-name
+9. 显示当前git仓库中有多少个分支 git branch -av
+10. 切换到分支  git checkout branch-name
+11. 一定要站在另一个分支上去删除它. 也就是说不能删除当前所在的分支 git branch -D branch-name
+12. 合并分支 git checkout master  git merge develop 如果出现冲突的时候可以使用mergetool, 解决冲突 git mergetool
+13. 使用tag命令来添加标签 是要创建标签的名称 git tag <tag-name>
+14. 若要删除标签，在tag命令指定 -d选项执行 git tag -d <tagname>
