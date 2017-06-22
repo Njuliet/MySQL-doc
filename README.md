@@ -10,7 +10,7 @@
 2. [第二天](https://github.com/Njuliet/MySQL-doc/blob/master/20170613.md)
 3. [第三天](https://github.com/Njuliet/MySQL-doc/blob/master/20160614.md)
 4. [第四天](https://github.com/Njuliet/MySQL-doc/blob/master/20170615.md)
-5. [第五天](/blob/master/20160616.md)
+5. [第五天](https://github.com/Njuliet/MySQL-doc/blob/master/20170616.md)
 6. [第六天](/blob/master/20160619.md)
 7. [第七天](/blob/master/20160620.md)
 8. [第八天](/blob/master/20160621.md)
