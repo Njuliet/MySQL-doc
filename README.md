@@ -6,13 +6,13 @@
 
 
 ## 每天计划
-[第一天]()
-[第二天]()
-[第三天]()
-[第四天]()
-[第五天]()
-[第六天]()
-[第七天]()
-[第八天]()
-[第九天]()
-[第十天]()
+1. [第一天](https://github.com/Njuliet/MySQL-doc/blob/master/20160612.md)
+2. [第二天](https://github.com/Njuliet/MySQL-doc/blob/master/20160613.md)
+3. [第三天](https://github.com/Njuliet/MySQL-doc/blob/master/20160614.md)
+4. [第四天](https://github.com/Njuliet/MySQL-doc/blob/master/20160615.md)
+5. [第五天](https://github.com/Njuliet/MySQL-doc/blob/master/20160616.md)
+6. [第六天](https://github.com/Njuliet/MySQL-doc/blob/master/20160619.md)
+7. [第七天](https://github.com/Njuliet/MySQL-doc/blob/master/20160620.md)
+8. [第八天](https://github.com/Njuliet/MySQL-doc/blob/master/20160621.md)
+9. [第九天](https://github.com/Njuliet/MySQL-doc/blob/master/20160622.md)
+10. [第十天](https://github.com/Njuliet/MySQL-doc/blob/master/20160623.md)
